@@ -1,19 +1,18 @@
-カテゴリ：				
-				Bags
-				Pants
-				Accessories
-				Skate
-				Shoes
-				Hats
-				Shirts
-				Sweatshirts
-				Tops/Sweaters
-				Jackets
-				T-Shirts
-				new
-				
-サイズ：				
-				Small
-				Medium
-				Large
-				XLarge
+# カテゴリ：
+*ags
+*ants
+*ccessories
+*kate
+*hoes
+*ats
+*hirts
+*weatshirts
+*ops/Sweaters
+*ackets
+*-Shirts
+*ew
+# サイズ：
+*Small
+*Medium
+*Large
+*XLarge
