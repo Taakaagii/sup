@@ -1,18 +1,20 @@
 # カテゴリ：
-* ags
-* ants
-* ccessories
-* kate
-* hoes
-* ats
-* hirts
-* weatshirts
-* ops/Sweaters
-* ackets
+* Bags
+* Pants
+* Accessories
+* Skate
+* Shoes
+* Hats
 * Shirts
-*ew
+* Sweatshirts
+* Tops/Sweaters
+* Jackets
+* T-Shirts
+* new
 # サイズ：
 * Small
 * Medium
 * Large
 * XLarge
+* N/A
+
