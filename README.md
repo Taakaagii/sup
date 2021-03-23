@@ -1,1 +1,19 @@
-# sup
+カテゴリ：				
+				Bags
+				Pants
+				Accessories
+				Skate
+				Shoes
+				Hats
+				Shirts
+				Sweatshirts
+				Tops/Sweaters
+				Jackets
+				T-Shirts
+				new
+				
+サイズ：				
+				Small
+				Medium
+				Large
+				XLarge
